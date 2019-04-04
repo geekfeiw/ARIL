@@ -6,7 +6,7 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 
  
 
-# Environment 
+# Evaluated Environment 
 1. PyTorch 1.0.0
 2. Python 3.7
 3. CUDA 8
