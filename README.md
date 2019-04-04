@@ -38,7 +38,7 @@ Please download [vis](https://drive.google.com/open?id=1Vd3Bs8V95XzwsJd5Y4cRVN6b
 1. t-SNE visualization for activity recognition 
 ![tsne_act](figs/apl_tsne_act.png)
 
-2. t-SNE visualization for activity recognition 
+2. t-SNE visualization for indoor localization 
 ![tsne_loc](figs/apl_tsne_loc.png)
 
 
