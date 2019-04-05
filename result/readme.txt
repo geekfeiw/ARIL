@@ -1,0 +1,1 @@
+This folder is to save learning losses and learning accuracy
