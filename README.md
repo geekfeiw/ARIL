@@ -23,6 +23,7 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 ), and decompress it at the root folder of this repository.
 
 > Activity Label: 0. hand up;  1. hand down; 2. hand left; 3. hand right; 4. hand circle; 5. hand cross.
+> Location Label: 0, 1, 2, ..., 15
 
 
 2. Please download [pre-trained weights](https://drive.google.com/open?id=1UT61Gs746yijxiKvLyP0wHIPxi9MYz0Y), and decompress it at the root folder of this repository.
