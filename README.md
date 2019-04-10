@@ -16,6 +16,14 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 
 ![hardware](figs/hardware.png)
 
+# 1D CNN
+
+1. 1D rediudal block
+<img src="figs/residual.png" width="50%" height="50%" />
+
+2. 1D ResNet-[1,1,1,1]
+<img src="figs/network.png" width="20%" height="20%" />
+
 
 # Usage
 
