@@ -18,7 +18,7 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 
 # 1D CNN
 
-1. 1D rediudal block
+1. 1D residual block
 <img src="figs/residual.png" width="50%" height="50%" />
 
 2. 1D ResNet-[1,1,1,1]
