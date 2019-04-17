@@ -55,5 +55,11 @@ Please download [vis](https://drive.google.com/open?id=1Vd3Bs8V95XzwsJd5Y4cRVN6b
 If this helps your research, please cite this paper.
 
 ```
+@article{wang2019joint,
+  title={Joint Activity Recognition and Indoor Localization},
+  author={Wang, Fei and Feng, Jianwei and Zhao, Yinliang and Zhang, Xiaobin and Zhang, Shiyuan and Han, Jinsong},
+  journal={arXiv preprint arXiv:1904.04964},
+  year={2019}
+}
 
 ```
