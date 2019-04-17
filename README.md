@@ -1,8 +1,7 @@
-# APL
+# Action Recognition and Indoor Localization
 
 Code and Data of the paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints]().
  
-**APL** is for **A**ctivity recognition **P**lus indoor **L**ocalization.
 
  
 
