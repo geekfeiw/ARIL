@@ -37,6 +37,8 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 
 3. Then run train.py or test.py
 
+4. Original data (not segmented and upsampled) is [here](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw)
+
 
 # For [t-SNE](https://lvdmaaten.github.io/tsne/) visualization
 
