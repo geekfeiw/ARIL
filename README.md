@@ -1,6 +1,6 @@
 # Action Recognition and Indoor Localization
 
-Code and Data of the paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints]().
+Code and Data of the paper, [Joint Activity Recognition and Indoor Localization with WiFi Fingerprints](https://arxiv.org/abs/1904.04964).
  
 
  
