@@ -11,19 +11,6 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 3. CUDA 8
 
 
-# Hardware: Ettus N210 and Ettus Clock
-
-![hardware](figs/hardware.png)
-
-# 1D CNN
-
-1. 1D residual block
-<img src="figs/residual.png" width="50%" height="50%" />
-
-2. 1D ResNet-[1,1,1,1]
-<img src="figs/network.png" width="20%" height="20%" />
-
-
 # Usage
 
 1. Please download [data](https://drive.google.com/open?id=1SCxUHbl6rNWM3kT0c-D4s_kyAero9_-o
@@ -38,6 +25,21 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 3. Then run train.py or test.py
 
 4. Original data (not segmented and upsampled) is [here](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw)
+
+
+
+# Hardware: Ettus N210 and Ettus Clock
+
+![hardware](figs/hardware.png)
+
+# 1D CNN
+
+1. 1D residual block
+<img src="figs/residual.png" width="50%" height="50%" />
+
+2. 1D ResNet-[1,1,1,1]
+<img src="figs/network.png" width="20%" height="20%" />
+
 
 
 # For [t-SNE](https://lvdmaaten.github.io/tsne/) visualization
