@@ -59,10 +59,12 @@ If this helps your research, please cite this paper.
 
 ```
 @article{wang2019joint,
-  title={Joint Activity Recognition and Indoor Localization},
+  title={Joint Activity Recognition and Indoor Localization With WiFi Fingerprints},
   author={Wang, Fei and Feng, Jianwei and Zhao, Yinliang and Zhang, Xiaobin and Zhang, Shiyuan and Han, Jinsong},
-  journal={arXiv preprint arXiv:1904.04964},
-  year={2019}
+  journal={IEEE Access},
+  volume={7},
+  pages={80058--80068},
+  year={2019},
 }
 
 ```
