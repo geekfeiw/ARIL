@@ -7,8 +7,7 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 
 # Evaluated Environment 
 1. PyTorch 1.0.0
-2. Python 3.7
-3. CUDA 8
+
 
 
 # Usage
@@ -24,7 +23,7 @@ Code and Data of the paper, [Joint Activity Recognition and Indoor Localization 
 
 3. Then run train.py or test.py
 
-4. Original data (not segmented and upsampled) is [here](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw)
+You may need original data (not segmented and upsampled) for your research, [here](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9Iw)
 
 
 
